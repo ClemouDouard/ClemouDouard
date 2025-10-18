@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on **some personal data science projects**
 
-- 🌱 I’m currently learning **scikit-learn**
+- 🌱 I’m currently reading **machine learning books**
 
 - 👨‍💻[Projects source code](https://github.com/ClemouDouard?tab=repositories)
